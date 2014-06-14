@@ -9,6 +9,11 @@ body {
   border-top: 1px solid #eee;
 }
 
+.maincontent {
+  text-align: left;
+  background-color: transparent;
+}
+
 /* Main marketing message and sign up button */
 .jumbotron {
   text-align: center;
